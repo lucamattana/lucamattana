@@ -15,8 +15,8 @@ Technologies I use:
 - Sequelize
 
 📫 How to reach me:
-luca.mattbes@gmail.com
-[LinkedIn](https://www.linkedin.com/in/luca-mattana-besozzi-83a641243/)
+- luca.mattbes@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/luca-mattana-besozzi-83a641243/)
 
 <!--
 **lucamattana/lucamattana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
